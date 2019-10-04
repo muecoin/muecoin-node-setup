@@ -20,6 +20,7 @@ func main() {
 	}
 
 	fmt.Println(homepath)
+	DownloadBinaries()
 	untar()
 
 }
